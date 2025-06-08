@@ -5,6 +5,8 @@ Desenvolvedor Full Stack apaixonado por transformar ideias em código e explorar
 🗨️ Atualmente sou desenvolvendor freelancer e voluntario em comunidades 
 
 
+![[Meu GIF local](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajczOTBqZzBiYjUzbDc2MWQ2OGx4N3NzbzF1ODRjMXFrc2JpbTFoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.gif)](./assets/meu-gif.gif)
+
 ---
 
 ### Onde me encontrar:
