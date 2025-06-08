@@ -9,7 +9,8 @@ Desenvolvedor Full Stack apaixonado por transformar ideias em código e explorar
 
 ### Onde me encontrar:
 
-[![LinkedIn](www.linkedin.com/in/andré-moura-dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andré-moura-dev)
+
 
 ---
 
