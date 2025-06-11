@@ -1,5 +1,5 @@
 <!-- GIF alinhado à direita -->
-<img align="right" height="230" Width="10" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajczOTBqZzBiYjUzbDc2MWQ2OGx4N3NzbzF1ODRjMXFrc2JpbTFoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.gif" alt="GIF dev animado" />
+<img align="right" height="230" style="padding-left: 20; padding-bottom: 10;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajczOTBqZzBiYjUzbDc2MWQ2OGx4N3NzbzF1ODRjMXFrc2JpbTFoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.gif" alt="GIF dev animado" />
 
 # Olá, eu sou André F. Moura
 
